@@ -290,7 +290,9 @@ EEG Signal Analysis
         PDF       Excel
        Report      Data
 
-# Main Application File
+---
+
+## Main Application File
 
 The main MATLAB application is:
 
