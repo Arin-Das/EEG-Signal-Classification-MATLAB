@@ -289,7 +289,7 @@ EEG Signal Analysis
           v         v
         PDF       Excel
        Report      Data
-
+```
 ---
 
 ## Main Application File
